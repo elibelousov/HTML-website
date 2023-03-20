@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Modding Victoria 3</title>
+</head>
+
+<body style="background-color:#fff5c4;">
+
+
+<h1 style="color:Tomato;" >Intro to Modding Victoria 3</h1>
+
+<img src=
+
+"https://cdn.cloudflare.steamstatic.com/steam/apps/529340/capsule_616x353.jpg?t=1678704194" 
+
+alt= "Title Screen of the game Victoria 3"> 
+
+<h2 style="color:DodgerBlue;font-family:arial" >What is Victoria 3?</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial">
+
+Victoria 3 is a video game where players can take control over any country spanning through the time period of 1836 to 1936. 
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+
+Players will need to make decisions regarding trade, diplomacy, politics and other aspects of their country in order to place it in the best position possible related to the world sphere.
+
+</p>
+
+<h2 style="color:DodgerBlue;font-family:arial" >What does modding mean?</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+Video game modding is the process of altering of one or more aspects of a video game in order to make it more appealing to fans.  
+
+</p>
+
+</body>
+
+<nav>
+<a href="/htmlpage1/">Intro</a> |
+ <a href="/htmlpage2/">What aspects can be modded?</a> |
+  <a href="/htmlpage3/">Using Excel to expedite the process</a> |
+  <a href="/htmlpage4/">Practice</a> |
+  <a href="/htmlpage5/">Contact</a>
+</nav>
+
+</html>

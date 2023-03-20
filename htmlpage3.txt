@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Modding Victoria 3</title>
+</head>
+
+<body style="background-color:#fff5c4;">
+
+
+<h1 style="color:Tomato;" >Using Excel to expedite the process</h1>
+
+<img src=
+
+"https://external-preview.redd.it/N0zpPuXyimMmeNGgXzNTLb34TyqkTbZcEVjv2WM54iw.png?width=640&crop=smart&auto=webp&s=c36b7ad20dab5afafe915ef649868ef461d41bf0" 
+
+alt= "Picture of an Excel Spreadsheet"> 
+
+<h2 style="color:DodgerBlue;font-family:arial" >Why use excel for modding?</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial">
+
+There are endless reasons why excel spreadsheets can improve your modding experience including:
+
+<ul style="color:MediumSeaGreen;font-family:arial" >
+
+  <li>
+Organizing: As your mod grows in size, it can get overwhelming to have to remember which files to change especially as the game updates and you'll have to redo past work. It's because of this that it's important to have a tool to keep track of which work goes where.
+  </li>
+
+  <li>
+Safekeeping: Google Sheets and our cloud based spreadsheet softwares can be crucial in making sure that your work is saved if a mistake is made that can't be easily fixed or god forbid, the work is lost. These softwares save periodically, on the cloud and can keep multiple copies saved every time period so that you can revert to a previous time that you had worked on your project and pick up from there.
+  </li>
+
+  <li>
+Time-saving: By using scripts, you can get entire files to automatically update based on a minor change that you make on the sheets. All you have to do is copy paste the results into the files and you are set!
+ 
+  </li>
+
+</ul>  
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+
+
+</p>
+
+<h2 style="color:DodgerBlue;font-family:arial" >Is there anything I can do to improve the experience?</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+Yes, absolutely, you can start with finding out whether any of the files can be combined. By limiting the amount of files that need new data to be copy pasted into, you'll be saving yourselves valuable time and headache.
+
+</p>
+
+</body>
+
+<nav>
+<a href="/htmlpage1/">Intro</a> |
+ <a href="/htmlpage2/">What aspects can be modded?</a> |
+  <a href="/htmlpage3/">Using Excel to expedite the process</a> |
+  <a href="/htmlpage4/">Practice</a> |
+  <a href="/htmlpage5/">Contact</a>
+</nav>
+
+</html>

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Modding Victoria 3</title>
+</head>
+
+<body style="background-color:#fff5c4;">
+
+
+<h1 style="color:Tomato;" >Practice</h1>
+
+<h2 style="color:DodgerBlue;font-family:arial" >Let's choose a concept</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial">
+
+What if you had an idea to adjust the populations in the game (which is set in 1836) to match those of the world in 1936?
+
+Well first you would need to identify what the populations are historically speaking. 
+
+</p>
+
+
+<p style="color:MediumSeaGreen;font-family:arial">
+
+
+I've added two images below showing the world population in 1836 vs 1936:
+
+
+</p>
+
+
+
+<img src=
+
+"https://preview.redd.it/oz4admsdp5171.png?width=1363&format=png&auto=webp&v=enabled&s=3a266968d05e44c88ce47861fbd44b101d615d33" 
+
+style="width:800px;height:400px;"
+
+alt= "World population in 1836"> 
+
+
+<img src=
+
+"https://preview.redd.it/jguob22ep5171.png?width=1361&format=png&auto=webp&v=enabled&s=72555033dc0d8a9e4d80b73a906dc6aa9d974f3e" 
+
+style="width:800px;height:400px;"
+
+alt= "World population in 1936"> 
+
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+
+</p>
+
+<h2 style="color:DodgerBlue;font-family:arial" >Research?</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+If one seeks to attain a level of historical accuracy when it comes to their mod, it's crucial that research is conducted to retrieve the data necessary for their changes. Please note that populations in the game are split up in states within countries, thus if someone wishes to adjust a population, they'll need to determine the population within a state rather than just within a country.
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+
+
+Data regarding populations can be hard to retrieve but here are some of my favourite sources:
+
+</p>
+
+<ul style="color:MediumSeaGreen;font-family:arial" >
+
+  <li>
+  <a href="https://en.wikisource.org/wiki/Main_Page">Wiki Source</a>
+  </li>
+  <li>
+  <a href="https://en.wikipedia.org/wiki/Main_Page">Wikipedia</a>
+  </li>
+  <li>
+  <a href="https://archive.org/details/cu31924030396067/page/n153/mode/2up?view=theater">British Empire Census</a>
+  </li>
+</ul>  
+
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+
+
+Alternatively, you can of course make up your own numbers but I'll leave that up to your own discretion.
+
+</p>
+
+</body>
+
+<nav>
+<a href="/htmlpage1/">Intro</a> |
+ <a href="/htmlpage2/">What aspects can be modded?</a> |
+  <a href="/htmlpage3/">Using Excel to expedite the process</a> |
+  <a href="/htmlpage4/">Practice</a> |
+  <a href="/htmlpage5/">Contact</a>
+</nav>
+
+</html>

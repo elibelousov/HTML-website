@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Modding Victoria 3</title>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: MediumSeaGreen;
+}
+</style>
+
+</head>
+
+<body style="background-color:#fff5c4;">
+
+
+<h1 style="color:Tomato;" >What aspects can be modded?</h1>
+
+<img src=
+
+"https://i.ytimg.com/vi/QvQVDG7Ap78/maxresdefault.jpg" 
+
+style="width:600px;height:400px;"
+
+alt= "Game mod for Victoria 3"> 
+
+<h2 style="color:DodgerBlue;" >The better question should be "what can't be modded?":</h2>
+
+<p style="color:MediumSeaGreen;font-family:arial" >
+ Technically every aspect of the game that does not involve messing with the engine can be modded. These aspects however vary greatly in complexity. The start date of the game can be changed by simply opening up the defines file located in common, defines and then changing it from 1836 to the time of your choosing. Changing AI behaviour on the other hand is something that would require dealing with many different files and folders as well rigiorous testing and an intricate knowledge of ai behaviours to effectively change.</p>
+
+<h2 style="color:DodgerBlue;" >Here are the most common modding areas:</h2>
+
+<table>
+  <tr>
+    <th>Modding Area</th>
+    <th>Subgroups</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Countries</td>
+    <td>Releasable/Formable Countries, Country Defining, Starting Policies</td>
+    <td>Players can only select one country to play at a time and these  offer a completely different experience depending on their geographical location, policies, wealth and luck.</td>
+  </tr>
+  <tr>
+    <td>States</td>
+    <td>State Ownerships, Populations, Buildings, Resources, Traits</td>
+    <td>Every playable country is split up into different regions or "states" and these regions can have different aspects from one another that affect how they should be used.</td>
+  </tr>
+  <tr>
+    <td>Population Groups</td>
+    <td>Cultures, Religions</td>
+    <td>Each state in the game has a population group and these</td>
+  </tr>
+  <tr>
+    <td>Laws</td>
+    <td>Laws, Law Groups</td>
+    <td>This refers to the legal limitations that the player's country should face when being played.</td>
+  </tr>
+  <tr>
+    <td>Ideologies</td>
+    <td>Interest Group Ideologies, Leader Ideologies</td>
+    <td>This refers to the goals that interest groups and leaders have.</td>
+  </tr>
+  <tr>
+    <td>Characters</td>
+    <td>Heads of State, Heads of Political Groups, Generals/Admirals</td>
+    <td>In the game there are characters that are involved in the running of a country from the top leader to their advisors representing different political groups. Each of these has unique traits and goals that impact how they behave.</td>
+  </tr>
+  <tr>
+    <td>Diplomacy</td>
+    <td>Relationships, Wars</td>
+    <td>This refers to how countries should interact with one another.</td>
+  </tr>
+  <tr>
+    <td>Flavour</td>
+    <td>Game Start Date, Country Intros</td>
+    <td>This refers to how the game should feel when you play it.</td>
+  </tr>
+</table>
+
+<p style="color:MediumSeaGreen;">
+
+</p>
+
+</body>
+
+<nav>
+<a href="/htmlpage1/">Intro</a> |
+ <a href="/htmlpage2/">What aspects can be modded?</a> |
+  <a href="/htmlpage3/">Using Excel to expedite the process</a> |
+  <a href="/htmlpage4/">Practice</a> |
+  <a href="/htmlpage5/">Contact</a>
+</nav>
+
+</html>
